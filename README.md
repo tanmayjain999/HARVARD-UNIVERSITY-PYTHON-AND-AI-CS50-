@@ -13,6 +13,9 @@ Mine solutions for CS50's Introduction to Artificial Intelligence with Python co
 
 https://cs50.harvard.edu/ai/
 
+![image](https://user-images.githubusercontent.com/84551574/123781222-9dbc1880-d8f1-11eb-8905-2fba58f9d362.png)
+
+
 This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the
  ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.
  Through hands-on projects, students gain exposure to the theory behind graph search algorithms, classification,
